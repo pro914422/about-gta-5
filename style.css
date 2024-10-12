@@ -1,0 +1,46 @@
+body {
+    color: aliceblue;
+    background-image: url('images/bg.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center;
+    height: 100vh;
+    background-attachment: fixed;
+
+     only screen and (-webkit-min-device-pixel-ratio: 2), 
+       only screen and (min--moz-device-pixel-ratio: 2), 
+       only screen and (-o-min-device-pixel-ratio: 2/1), 
+       only screen and (min-device-pixel-ratio: 2), 
+       only screen and (min-resolution: 192dpi)
+}
+h1 {
+    color: white;
+    text-align: center;
+    padding-top: 20%;
+}
+h1 {
+    color: rgb(0, 0, 0)
+}
+.highlight {
+    color:aquamarine
+}
+font {
+    font-size: 40px;
+    color:rgb(255, 0, 0)
+}
+U1 {
+    color:red;
+}
+u2 {
+    color:red;
+}
+a1 {
+    color: red;
+}
+a2 {
+    color: red;
+}
+#aboutgta5{
+    text-align: center;
+    font-weight: 500;
+}
